@@ -1,0 +1,27 @@
+p{
+	font-family: Courier New;
+}
+
+#ky{
+	right: center;
+	color: 001933;
+    background-size: auto auto;
+	background: #F0FFFF;
+	border: 1px solid;
+	border-color: #F0FFFF;
+	letter-spacing: 4px;
+    word-spacing: 4px;
+    margin-top: 0;
+}
+.ooo{
+	background: #FFFFFF;
+	display: block;
+	max-width: 100%;
+	box-sizing: border-box;
+	width: 300px;
+
+}
+.k{
+	right: 100px;
+	width: 100px 100px;
+}
