@@ -1,1 +1,1 @@
-# Hi everyone, I am a web developer in c# and c++.
+# Hi everyone, I am a web developer in html/css and js.
